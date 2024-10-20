@@ -1,0 +1,8 @@
+If you need any help, consult the PDF file provided in the repo. It is a copy of the presentation and should have all the commands needed.
+If you still need help, consult one of the teaching assistants.
+
+1. Create a fork of this repository.
+2. Clone the fork to your computer.
+3. Create a new text file with your name and ID as name, and write whatever you want inside it.
+4. Add, commit, and push your changes to the remote repository
+5. Create a pull request and let the presenter know to accept it.
